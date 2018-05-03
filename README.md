@@ -1,6 +1,6 @@
 #Trying to write an if / else statement that puts "no Address found" when "current_addresses" is empty
 
-#The Request:
+#The Script:
 
 nestedArray = [
 [ "First Middle LastName", "City", "State", "Zip" ]
